@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/konna-feen-zaman/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use Konna Feen Zaman](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
